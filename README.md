@@ -1,6 +1,8 @@
 ### Product Preview Card
 Projeto de implementação de design de um componente disponibilizado pela plataforma Front-End Mentor
 
+:link: https://samuel0102.github.io/product-preview-card/
+
 # Sobre o projeto
 
 ## Introdução
