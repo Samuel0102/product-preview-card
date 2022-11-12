@@ -1,107 +1,104 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap");
 
-
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-body{
-    background-color: hsl(30, 38%, 92%);
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+body {
+  background-color: hsl(30, 38%, 92%);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-#card-container{
-    width: 550px;
-    height: 420px;
-    display: flex;
+#card-container {
+  width: 550px;
+  height: 420px;
+  display: flex;
 }
 
-#product-image{
-    background-image: url(./assets/image-product-desktop.jpg);
-    background-size: cover;
-    width: 50%;
-    border-radius: 10px 0px 0px 10px;
+#product-image {
+  background-image: url(./assets/image-product-desktop.jpg);
+  background-size: cover;
+  width: 50%;
+  border-radius: 10px 0px 0px 10px;
 }
 
-#product-description{
-    background-color: hsl(0, 0%, 100%);
-    border-radius: 0px 10px 10px 0px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    row-gap: 24px;
-    width: 50%;
+#product-description {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 0px 10px 10px 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  row-gap: 24px;
+  width: 50%;
 }
 
-#product-description > *{
-    width: 80%;
+#product-description > * {
+  width: 80%;
 }
 
-#product-type{
-    text-transform: uppercase;
-    letter-spacing: .2rem;
-    font-size: 0.8rem;
-    color: hsl(228, 12%, 48%);
-    font-weight: 500;
-    font-family: Montserrat;
+#product-type {
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  font-size: 0.8rem;
+  color: hsl(228, 12%, 48%);
+  font-weight: 500;
+  font-family: Montserrat;
 }
 
-#product-name{
-    font-family: Fraunces;
-    font-weight: 700;
-    line-height: 2rem;
+#product-name {
+  font-family: Fraunces;
+  font-weight: 700;
+  line-height: 2rem;
 }
 
-#product-text{
-    font-family: Montserrat;
-    color: hsl(228, 12%, 48%);
-    font-size: .8rem;
-    line-height: 1.2rem; 
+#product-text {
+  font-family: Montserrat;
+  color: hsl(228, 12%, 48%);
+  font-size: 0.8rem;
+  line-height: 1.2rem;
 }
 
-#product-price{
-    display: flex;
-    align-items: center;
-    column-gap: 16px;
+#product-price {
+  display: flex;
+  align-items: center;
+  column-gap: 16px;
 }
 
-#product-price #new-price{
-    font-family: Fraunces;
-    color: hsl(158, 36%, 37%);
+#product-price #new-price {
+  font-family: Fraunces;
+  color: hsl(158, 36%, 37%);
 }
 
-#product-price #old-price{
-    font-family: Montserrat;
-    font-size: .7rem;
-    color: hsl(228, 12%, 48%);
-    text-decoration: line-through;
+#product-price #old-price {
+  font-family: Montserrat;
+  font-size: 0.7rem;
+  color: hsl(228, 12%, 48%);
+  text-decoration: line-through;
 }
 
-#add-to-cart-button{
-    background-color: hsl(158, 36%, 37%);
-    padding: 12px;
-    color: hsl(0, 0%, 100%);
-    display: flex;
-    align-items: center;
-    font-weight: 700;
-    justify-content: center;
-    column-gap: 8px;
-    font-size: .8rem;
-    font-family: Montserrat;
-    border-radius: 8px;
+#add-to-cart-button {
+  background-color: hsl(158, 36%, 37%);
+  padding: 12px;
+  color: hsl(0, 0%, 100%);
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+  justify-content: center;
+  column-gap: 8px;
+  font-size: 0.8rem;
+  font-family: Montserrat;
+  border-radius: 8px;
 }
 
-#add-to-cart-button:hover{
-    cursor: pointer;
-    background-color: hsl(212, 21%, 14%);
-    transition: .2s all;
+#add-to-cart-button:hover {
+  cursor: pointer;
+  background-color: hsl(212, 21%, 14%);
+  transition: 0.2s all;
 }
-
