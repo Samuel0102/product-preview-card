@@ -1,49 +1,54 @@
-### Product Preview Card
-Projeto de implementação de design de um componente disponibilizado pela plataforma Front-End Mentor
-
+# Product Preview Card
+Project implementation of the Front-End Mentor design of a product preview card component  
 :link: https://samuel0102.github.io/product-preview-card/
 
-# Sobre o projeto
+## About the project
 
-## Introdução
-Projeto de implementação de design disponibilizado pela plataforma Front-End Mentor para construção de um componente do tipo card, um exemplo de demonstração de produto. Contém a imagem e uma descrição do produto, com nome, texto e preço
+### Final Visual
 
-## Especificações
-*Autor*: Samuel Pacheco Ferreira    
-*Descrição*: Projeto de implementação de um componente  
-*Andamento*: Finalizado    
-*Terá atualizações*:  Não        
-
-## Tecnologias
-*Tecnologias utilizadas*: HTML5, CSS       
-*IDE*: Visual Studio Code        
-*Estruturação*: HTML5  
-
-## Visão Final
-
-### Desktop
+#### Desktop
 
 ![image](https://user-images.githubusercontent.com/61472839/201497236-dd06a120-37fd-4855-8d7a-75d8863aa33f.png)
 
-### Mobile
+#### Mobile
 
 ![image](https://user-images.githubusercontent.com/61472839/201497252-28e1f98a-7963-4d58-ac51-0d49030e7bdd.png)
 
-## Funcionalidades
-* Projeto Front-End Estático, apenas HTML e CSS
 
-## Requisitos para manipular código
-* Nenhum, basta baixar o repositório 
+### Introduction
+Project implementation design of a product preview card component made by the Front-End Mentor Platform. This component has a modern visual, with a preview image of the product and his specifications such price and name
 
-## Execução do sistema
-* Nenhum, basta baixar o repositório 
 
-## Documentações do sistema e outros arquivos
-* Nenhuma documentaçaõ adicional
+### Especifications
+*Author*: Samuel Pacheco Ferreira    
+*Description*: Project implementation of a component
+*Stage*: Finished     
+*Will be updated?*: No        
 
-## Origem do projeto
+### Technologies
+*Technologies*: HTML, CSS     
+*IDE*: Visual Studio Code.      
+*Main Structure*: HTML   
+
+### Functionalities
+* Static page
+
+### Requirements to coding
+* Nothing
+
+### System Execution
+1. Nothing
+
+### Documentation or other files
+:link: 
+
+### Project Origin
 :link: https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa
 
-## Principais dificuldades
-* Projeto relativamente pequeno, sem muitos problemas
+### Main Challenges of the project
+
+
+
+
+
 
