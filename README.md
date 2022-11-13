@@ -1,6 +1,5 @@
 # Product Preview Card
 Project implementation of the Front-End Mentor design of a product preview card component  
-:link: https://samuel0102.github.io/product-preview-card/
 
 ## About the project
 
